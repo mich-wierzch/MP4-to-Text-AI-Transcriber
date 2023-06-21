@@ -36,6 +36,12 @@ If the URL or API Key provided is incorrect, the program will return an error.
 
 Please make sure to update tests as appropriate.
 
+![Default_state](https://github.com/mich-wierzch/MP4-to-Text-AI-Transcriber/blob/main/screenshots/preview_1.png)
+![Fields_empty](https://github.com/mich-wierzch/MP4-to-Text-AI-Transcriber/blob/main/screenshots/preview_2.png)
+![Help_button](https://github.com/mich-wierzch/MP4-to-Text-AI-Transcriber/blob/main/screenshots/preview_3.png)
+![Processing](https://github.com/mich-wierzch/MP4-to-Text-AI-Transcriber/blob/main/screenshots/preview_4.png)
+![Success](https://github.com/mich-wierzch/MP4-to-Text-AI-Transcriber/blob/main/screenshots/preview_5.png)
+![Error](https://github.com/mich-wierzch/MP4-to-Text-AI-Transcriber/blob/main/screenshots/preview_6.png)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
