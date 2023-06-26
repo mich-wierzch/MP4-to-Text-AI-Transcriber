@@ -1,6 +1,6 @@
 # MP4-to-Text-AI-Transcriber
 
-AI Transcriber is a Java application that utilizes the AssemblyAI API to transcribe audio files in real-time. It provides a graphical user interface (GUI) for users to input the URL of an audio file and an API key, and then it retrieves the transcription result from the API.
+AI Transcriber is a Java application that utilizes the AssemblyAI API to transcribe audio files in real-time. It provides a graphical user interface (GUI) for users to input the URL of an .mp4 and an API key, and then it retrieves the transcription result from the API.
 
 ## Prerequisites
 
